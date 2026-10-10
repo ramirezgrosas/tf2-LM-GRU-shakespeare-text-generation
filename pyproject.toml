@@ -1,7 +1,7 @@
 [project]
 name = "tf2-lm-gru-shakespeare-text-generation"
 version = "0.1.0"
-description = "Add your description here"
+description = "Character-level language model with a stateful GRU that learns Shakespeare's text and generates new text, built with TensorFlow 2 (Keras)."
 readme = "README.md"
 authors = [
     { name = "Diego Ramirez Rosas", email = "ramirezgrosas@gmail.com" }
